@@ -10,5 +10,8 @@
   "license": "MIT",
   "dependencies": {
     "@slack/bolt": "^4.7.2"
+  },
+  "devDependencies": {
+    "serverless-offline": "^14.7.1"
   }
 }
